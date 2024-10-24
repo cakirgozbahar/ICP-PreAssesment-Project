@@ -1,4 +1,4 @@
-/bahar çakırgöz
+//bahar çakırgöz
 //hesap makinesi yapımı
 
 actor hesap_makinesi {
